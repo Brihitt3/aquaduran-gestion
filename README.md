@@ -15,22 +15,13 @@ Propuesta tecnológica conceptual orientada a mitigar la incertidumbre sobre la 
 | # | Módulo | Archivo |
 
 |---|--------|---------|
-
-| 1 | Problema Identificado | \[problema.md](problema.md) |
-
-| 2 | Solución Propuesta | \[solucion.md](solucion.md) |
-
-| 3 | Requisitos | \[requisitos.md](requisitos.md) |
-
-| 4 | Planificación Básica | \[planificacion.md](planificacion.md) |
-
-| 5 | Trabajo Colaborativo | \[colaboracion.md](colaboracion.md) |
-
-| 6 | Reflexión Final | \[reflexion.md](reflexion.md) |
-
-| 7 | Carpeta de Evidencias | \[evidencias/](evidencias/) |
-
-
+1. [Problema Identificado](problema.md)
+2. [Solución Propuesta](solucion.md)
+3. [Requisitos](requisitos.md)
+4. [Planificación Básica](planificacion.md)
+5. [Trabajo Colaborativo](colaboracion.md)
+6. [Reflexión Final](reflexion.md)
+7. [Carpeta de Evidencias](evidencias/)
 
 \---
 
