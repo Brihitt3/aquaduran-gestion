@@ -72,8 +72,6 @@ El proyecto conceptual se estructuró en 3 Sprints de trabajo ágil, distribuyen
 
 &#x20; \* Revisión del Pull Request proveniente de la rama `aporte-colaborador`.
 
-&#x20; \* Resolución del conflicto de merge en `planificacion.md`.
-
 &#x20; \* Creación de los archivos `colaboracion.md` y `reflexion.md`.
 
 &#x20; \* Generación del informe final en formato PDF.
